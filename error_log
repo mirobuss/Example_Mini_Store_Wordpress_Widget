@@ -1,1 +1,0 @@
-[30-Aug-2016 07:51:10 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/mirobuss/public_html/wp/wp-content/plugins/example_mini_store/product_cpt.php on line 3
